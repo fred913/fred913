@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sheng Fan, but you can call me Fred. I'm a 15-year-old student based in Hangzhou, Zhejiang, China.
+My name is Sheng Fan, but you can call me Fred. I'm a 16-year-old student based in Hangzhou, Zhejiang, China.
 
 I'm a bit of a jack-of-all-trades when it comes to my work with @CivilizationGame. I wear many hats, including IT manager, programmer, and coder. But at the end of the day, I'm passionate about all things code 💻 and it's a big part of my life.
 
