@@ -1,8 +1,9 @@
-### Hi there 👋
-My name is Sheng Fan, but you can call me Fred. I'm a 16-year-old student based in Hangzhou, Zhejiang, China.
+### Greetings 👋
 
-I'm a bit of a jack-of-all-trades when it comes to my work with @CivilizationGame. I wear many hats, including IT manager, programmer, and coder. But at the end of the day, I'm passionate about all things code 💻 and it's a big part of my life.
+My name is Sheng Fan, but you can call me Fred. I am a 17-year-old student at Hangzhou Electronics & Information Vocational School, based in Hangzhou, Zhejiang, China.
 
-Coding is not just a hobby for me, it's a passion 🔥. I love the creativity and problem-solving that comes with it 🤔, and I'm constantly looking for ways to improve my skills 📚 and learn new things.
+In my role with @CivilizationGame, I embrace a multifaceted approach, serving as an IT manager, programmer, and coder. My work reflects my passion for all things coding 💻, which is an integral part of my life.
+
+Coding transcends mere hobby for me; it is a fervent passion 🔥. I thrive on the creativity and problem-solving challenges it presents 🤔, and I am continually seeking opportunities to enhance my skills 📚 and explore new concepts.
 
 If you would like to contact me, you can reach me at fredtools999@gmail.com.
