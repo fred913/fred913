@@ -8,4 +8,4 @@ Coding transcends mere hobby for me; it is a fervent passion 🔥. I thrive on t
 
 If you would like to contact me, you can reach me at fredtools999@gmail.com.
 
-[fred913's GitHub Status](https://github-readme-stats.vercel.app/api?username=fred913&count_private=true)
+![fred913's GitHub Status](https://github-readme-stats.vercel.app/api?username=fred913&count_private=true)
