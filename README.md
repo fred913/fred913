@@ -1,10 +1,10 @@
 ### Greetings 👋
 
-My name is Sheng Fan, but you can call me Fred. I am a 17-year-old student at Hangzhou Electronics & Information Vocational School, based in Hangzhou, Zhejiang, China.
+My name is Sheng Fan, but you can call me Fred. I'm a 17-year-old high school sophomore at Hangzhou Electronics & Information Vocational School, based in Hangzhou, Zhejiang, China.
 
-In my role with @CivilizationGame, I embrace a multifaceted approach, serving as an IT manager, programmer, and coder. My work reflects my passion for all things coding 💻, which is an integral part of my life.
+As a Maintainer of [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus), I actively contribute to open-source development while balancing my academic commitments. My work reflects my passion for collaborative coding projects and system architecture design 💻.
 
-Coding transcends mere hobby for me; it is a fervent passion 🔥. I thrive on the creativity and problem-solving challenges it presents 🤔, and I am continually seeking opportunities to enhance my skills 📚 and explore new concepts.
+Coding transcends mere hobby for me; it is a fervent passion 🔥. I thrive on the creativity and problem-solving challenges it presents 🤔, constantly seeking opportunities to enhance my full-stack development skills 📚 and explore emerging technologies in distributed systems.
 
 If you would like to contact me, you can reach me at fredtools999@gmail.com.
 
