@@ -2,7 +2,7 @@
 
 My name is Sheng Fan, but you can call me Fred. I'm a 17-year-old high school sophomore at Hangzhou Electronics & Information Vocational School, based in Hangzhou, Zhejiang, China.
 
-As a Maintainer of [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus), I actively contribute to open-source development while balancing my academic commitments. My work reflects my passion for collaborative coding projects and system architecture design 💻.
+As a Maintainer of [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus), I actively contribute to open-source development while balancing my academic commitments. My work reflects my passion for collaborative coding projects and system architecture design 💻.
 
 Coding transcends mere hobby for me; it is a fervent passion 🔥. I thrive on the creativity and problem-solving challenges it presents 🤔, constantly seeking opportunities to enhance my full-stack development skills 📚 and explore emerging technologies in distributed systems.
 
