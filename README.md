@@ -1,11 +1,18 @@
-### Greetings 👋
+## Sheng Fan / fred913 👨‍💻
 
-My name is Sheng Fan, but you can call me Fred. I'm a 17-year-old high school sophomore at Hangzhou Electronics & Information Vocational School, based in Hangzhou, Zhejiang, China.
+**Full-Stack Developer | Open Source Contributor**
 
-As a Maintainer of [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus), I actively contribute to open-source development while balancing my academic commitments. My work reflects my passion for collaborative coding projects and system architecture design 💻.
+Hey there! I'm a 17-year-old developer from Hangzhou, China, currently studying at Hangzhou Electronics & Information Vocational School. I've been coding for a while now, and what started as a hobby has become my biggest passion.
 
-Coding transcends mere hobby for me; it is a fervent passion 🔥. I thrive on the creativity and problem-solving challenges it presents 🤔, constantly seeking opportunities to enhance my full-stack development skills 📚 and explore emerging technologies in distributed systems.
+### What I'm Into
+- **Open Source**: I love contributing to projects and collaborating with developers worldwide
+- **Full-Stack Development**: Building complete applications from frontend to backend
+- **Distributed Systems**: Always curious about how large-scale systems work and scale
 
-If you would like to contact me, you can reach me at fredtools999@gmail.com.
+I'm constantly learning new technologies and enjoy the problem-solving aspect of development. There's something satisfying about debugging a tricky issue or architecting a clean solution that just works.
+
+When I'm not coding, you'll probably find me exploring the latest tech trends or working on side projects that challenge me to grow as a developer.
+
+**Get in touch**: fredtools999@gmail.com
 
 ![fred913's GitHub Status](https://github-readme-stats.vercel.app/api?username=fred913&count_private=true)
