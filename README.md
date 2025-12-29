@@ -13,6 +13,6 @@ I'm constantly learning new technologies and enjoy the problem-solving aspect of
 
 When I'm not coding, you'll probably find me exploring the latest tech trends or working on side projects that challenge me to grow as a developer.
 
-**Get in touch**: fredtools999@gmail.com
+**Get in touch**: hi@sheng.fan
 
 ![fred913's GitHub Status](https://github-readme-stats.vercel.app/api?username=fred913&count_private=true)
