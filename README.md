@@ -15,4 +15,4 @@ When I'm not coding, you'll probably find me exploring the latest tech trends or
 
 **Get in touch**: hi@sheng.fan
 
-![fred913's GitHub Status](https://github-readme-stats.vercel.app/api?username=fred913&count_private=true)
+![Stats](./profile/stats.svg)
