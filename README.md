@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Open Source Contributor**
 
-Hey there! I'm a 17-year-old developer from Hangzhou, China, currently studying at Hangzhou Electronics & Information Vocational School. I've been coding for a while now, and what started as a hobby has become my biggest passion.
+Hey there! I'm a 18-year-old developer from Hangzhou, China, currently studying at Hangzhou Electronics & Information Vocational School. I've been coding for a while now, and what started as a hobby has become my biggest passion.
 
 ### What I'm Into
 - **Open Source**: I love contributing to projects and collaborating with developers worldwide
